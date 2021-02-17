@@ -1,5 +1,8 @@
 from faker import Faker
-fake = Faker('zh_CN')
-print(fake.address())
-print(fake.name())
-print(fake.phone_number())
+import sys
+WIN = sys.platform.startswith('win')
+print(WIN)
+# fake = Faker('zh_CN')
+# print(fake.address())
+# print(fake.name())
+# print(fake.phone_number())

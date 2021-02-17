@@ -2,7 +2,7 @@
 body {
     margin: auto;
     max-width: 580px;
-    font-size: 14px;
+    font-size: 16px;
     font-family: Helvetica, Arial, sans-serif;
     }
 /* 页脚 */
@@ -12,7 +12,7 @@ footer {
     text-align: center; padding: 10px;
 }/* 头像 */
 .avatar {
-    width: 40px;
+    width: 70px;
          }
 /* 电影列表 */
 .movie-list {
